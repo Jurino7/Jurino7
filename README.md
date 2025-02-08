@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jurino7
-- 👀 I’m interested in Python, C, C++, C#, .NET
+- 👀 I’m interested in Python, C, C++
 - 🌱 I’m currently learning React / Java
 - 📫 How to reach me londakjurino7@gmail.com
 
